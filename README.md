@@ -4,18 +4,6 @@
 
 Me chamo Thyago Santos, tenho 18 anos e sou natural de Pernambuco. Concluí o ensino médio na Escola Tácnica Estadual de Pernambuco, com o curso técnico em Redes de Computadores. Atualmente, estou cursando Ciências da Computação na Uninassau. sou apaixonado por tecnologia e meu interesse maior é adquirir conhecimento, por isso tenho muita vontade de aprender e crescer na área, costumo otimizar todos processos sempre que possível, tenho facilidade de explicar ideias claramente, tanto para técnicos quanto para não‑técnicos, colaborar com times, documentar código ou processos. Sou flexível, portanto, me adapto rapidamente e sempre tento entender o “porquê” das coisas, identifico problemas e proponho soluções. compatilho meu conhecimento através daqui "[Thyago santos](https://github.com/thyagosantos11)", onde ficam todas as minhas experiências e proetos pessoais, e também através do Instagram, com o perfil chamado "[thyagosantosdev](https://www.instagram.com/thyagosantosdev/)".
 
-<a href="https://github.com/thyagosantos11?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/thyagosantos11?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/thyagosantos11?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/thyagosantos11?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
 
 ---
 ---
