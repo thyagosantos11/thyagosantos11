@@ -70,7 +70,6 @@ Me chamo Thyago Santos, tenho 19 anos e sou natural de Pernambuco. Concluí o en
 />
 
 
-/>
 <img 
     align="left" 
     alt="Angular" 
