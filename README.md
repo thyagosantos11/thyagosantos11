@@ -2,7 +2,7 @@
 
 **`Técnico em Redes de Computadores e Desenvolvedor FullStack`**
 
-Me chamo Thyago Santos, tenho 18 anos e sou natural de Pernambuco. Concluí o ensino médio na Escola Tácnica Estadual de Pernambuco, com o curso técnico em Redes de Computadores. Atualmente, estou cursando Ciências da Computação na Uninassau. sou apaixonado por tecnologia e meu interesse maior é adquirir conhecimento, por isso tenho muita vontade de aprender e crescer na área, costumo otimizar todos processos sempre que possível, tenho facilidade de explicar ideias claramente, tanto para técnicos quanto para não‑técnicos, colaborar com times, documentar código ou processos. Sou flexível, portanto, me adapto rapidamente e sempre tento entender o “porquê” das coisas, identifico problemas e proponho soluções. compatilho meu conhecimento através [daqui](https://github.com/thyagosantos11), onde ficam todas as minhas experiências e projetos pessoais, e também através do Instagram, com o perfil chamado "[thyagosantosdev](https://www.instagram.com/thyagosantosdev/)".
+Me chamo Thyago Santos, tenho 19 anos e sou natural de Pernambuco. Concluí o ensino médio na Escola Tácnica Estadual de Pernambuco, com o curso técnico em Redes de Computadores. Atualmente, estou cursando Ciências da Computação na Uninassau. sou apaixonado por tecnologia e meu interesse maior é adquirir conhecimento, por isso tenho muita vontade de aprender e crescer na área, costumo otimizar todos processos sempre que possível, tenho facilidade de explicar ideias claramente, tanto para técnicos quanto para não‑técnicos, colaborar com times, documentar código ou processos. Sou flexível, portanto, me adapto rapidamente e sempre tento entender o “porquê” das coisas, identifico problemas e proponho soluções. compatilho meu conhecimento através [daqui](https://github.com/thyagosantos11), onde ficam todas as minhas experiências e projetos pessoais, e também através do Instagram, com o perfil chamado "[thyagosantosdev](https://www.instagram.com/thyagosantosdev/)".
 
 
 ---
@@ -69,21 +69,7 @@ Me chamo Thyago Santos, tenho 18 anos e sou natural de Pernambuco. Concluí o en
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 
-<img 
-    align="left" 
-    alt="Cassandra" 
-    title="Cassandra"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Ionic" 
-    title="Ionic"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg"
+
 />
 <img 
     align="left" 
@@ -92,14 +78,6 @@ Me chamo Thyago Santos, tenho 18 anos e sou natural de Pernambuco. Concluí o en
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
 
 <img 
@@ -110,14 +88,7 @@ Me chamo Thyago Santos, tenho 18 anos e sou natural de Pernambuco. Concluí o en
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+
 
 <br/>
 <br/>
